@@ -30,7 +30,7 @@ const getScale =
   };
 
 export const Handle = styled.div<HandleProps>`
-  background-color: #f9ac61;
+  background-color: #DE64ED;
   border-radius: 50%;
   cursor: pointer;
   height: ${getScale("handleHeight")};
