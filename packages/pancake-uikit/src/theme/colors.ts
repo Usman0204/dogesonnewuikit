@@ -22,7 +22,7 @@ export const lightColors: Colors = {
   secondary: "#fff",
   background: "#08060B",
   backgroundDisabled: "#3c3742",
-  backgroundAlt: "#27262c",
+  backgroundAlt: "rgba(0, 0, 0, 0.4)",
   cardBorder: "#383241",
   contrast: "#000",
   dropdown: "#1E1D20",
@@ -39,7 +39,7 @@ export const lightColors: Colors = {
   gradients: {
     bubblegum: "#000",
     inverseBubblegum:  "#000",
-    cardHeader:  "#27262c",
+    cardHeader:  "rgba(0, 0, 0, 0.4)",
     blue:  "#000",
     violet:  "#000",
     violetAlt:  "#000",
